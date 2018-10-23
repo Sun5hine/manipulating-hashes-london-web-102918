@@ -9,5 +9,5 @@ def second_challenge
   #code your solution here!
 
   
-groceries.collect {|x, y|  values }
+groceries.collect {|keys, values| values}
 end
