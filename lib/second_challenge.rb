@@ -9,5 +9,5 @@ def second_challenge
   #code your solution here!
 
   
-groceries.each {|key, value|  
+groceries.each {|x, y|  x.values 
 end
